@@ -4,5 +4,4 @@ keras
 pillow
 numpy
 qrcode
-# asyncio
-# asyncio is normally included in Python 3.9. but if you need it uncomment the line above Professor
+asyncio
